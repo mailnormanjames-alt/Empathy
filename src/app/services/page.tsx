@@ -1,3 +1,5 @@
+"use client"
+
 import { allServices } from "contentlayer/generated"
 import Link from "next/link"
 import { motion } from "framer-motion"

@@ -1,3 +1,5 @@
+"use client"
+
 import { allProjects } from "contentlayer/generated"
 import { notFound } from "next/navigation"
 import { useMDXComponent } from "next-contentlayer/hooks"
